@@ -1,2 +1,9 @@
-Back propogation method explained numerically : https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
+Back propogation: 
+
+1)https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/ (method explained numerically)
+
+2)http://colah.github.io/posts/2015-08-Backprop/ (intutively)
+
+3)https://s3-us-west-2.amazonaws.com/cs188websitecontent/lectures/SP17/SP17-CS188-Lecture-23-DeepLearning.pdf (intutively)
+
 
