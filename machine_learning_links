@@ -12,3 +12,8 @@ https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-st
 
 Latent Dirchilet Allocation:
 1)https://www.youtube.com/watch?v=DWJYZq_fQ2A - very good introduction
+
+Difference between Maximum likelihood, maximum aposteriori, Bayesian estimation.
+In ML and MAP we get a single estimation of the parameter. Though in MAP method we use prior information of the parameter, we still get a single estimate. We do not worry about the posterior distribution. Where as in the Bayesian estimation, we consider the posterior distribution which uses the idea called conjugate priors - the prior and the posterior distibutions will be same. The prior distribution parameters will be updated in the posterior distribution. 
+
+1)https://engineering.purdue.edu/kak/Tutorials/Trinity.pdf
