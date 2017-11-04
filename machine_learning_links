@@ -23,7 +23,7 @@ Hidden Markov model:
 
 1)read about viterbi algorithm and farword backword algorithm from the NPTEL pushpak bhattacharya video lectures
 2)Training: http://cs.au.dk/~cstorm/courses/MLiB_f14/slides/hidden-markov-models-4.pdf
-a)Train parameters for single instance 
+a)Train parameters for single instance : https://en.wikipedia.org/wiki/Baum%E2%80%93Welch_algorithm
 b)How To train parameters for multiple instances (X's) and multiple state sequence - last but one slide
 c)How To train parameters for multiple instances (X's) - last slide 
 
