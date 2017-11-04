@@ -31,3 +31,8 @@ c)How To train parameters for multiple instances (X's) - last slide
 Principal component analysis:
 To know why we have to find eigen vectors use Bishop text book pg number 562
 
+
+Singular Valued decomposition:
+http://web.mit.edu/be.400/www/SVD/Singular_Value_Decomposition.htm
+https://datajobs.com/data-science-repo/SVD-Tutorial-%5bKirk-Baker%5d.pdf (Page 21)
+
