@@ -17,3 +17,11 @@ Difference between Maximum likelihood, maximum aposteriori, Bayesian estimation.
 In ML and MAP we get a single estimation of the parameter. Though in MAP method we use prior information of the parameter, we still get a single estimate. We do not worry about the posterior distribution. Where as in the Bayesian estimation, we consider the posterior distribution which uses the idea called conjugate priors - the prior and the posterior distibutions will be same. The prior distribution parameters will be updated in the posterior distribution. 
 
 1)https://engineering.purdue.edu/kak/Tutorials/Trinity.pdf
+
+
+Hidden Markov model:
+
+1)read about viterbi algorithm and farword backword algorithm from the NPTEL pushpak bhattacharya video lectures
+2)Training: http://cs.au.dk/~cstorm/courses/MLiB_f14/slides/hidden-markov-models-4.pdf
+a)How To train parameters for multiple instances (X's) and multiple state sequence - last but one slide
+b)How To train parameters for multiple instances (X's) - last slide 
