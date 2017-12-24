@@ -26,7 +26,7 @@ Hidden Markov model:
 a)Train parameters for single instance : https://en.wikipedia.org/wiki/Baum%E2%80%93Welch_algorithm
 b)How To train parameters for multiple instances (X's) and multiple state sequence - last but one slide
 c)How To train parameters for multiple instances (X's) - last slide 
-
+d)http://users-cs.au.dk/cstorm/courses/PRiB_f12/slides/ (Bishop book  related slides )
 
 Principal component analysis:
 To know why we have to find eigen vectors use Bishop text book pg number 562
